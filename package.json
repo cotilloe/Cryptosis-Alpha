@@ -1,5 +1,5 @@
 {
-    "name": "MultiOgar-Edited-Unlimited",
+    "name": "Cryptosis - Enhanced Agar.io Clone",
     "version": "1.0.3",
     "description": "Open source multi-protocol Ogar server",
     "author": "Megabyte918 (https://github.com/Megabyte918)",
@@ -17,9 +17,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Megabyte918/MultiOgar-Edited"
+        "url": "https://github.com/cotilloe/Cryptosis-Alpha"
     },
     "bugs": {
-        "url": "https://github.com/Megabyte918/MultiOgar-Edited/issues"
+        "url": "https://github.com/cotilloe/Cryptosis-Alpha/issues"
     }
 }
